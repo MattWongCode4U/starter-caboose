@@ -2,6 +2,10 @@
 Tutorial 5 Starter Webapp - Caboose
 ###################################
 
+***Team members***
+Matthew Wong
+Luda Shu
+
 This is the starter webapp for CodeIgniter Tutorial #5.
 
 Unlike an earlier version, this version is fully functional, just feature incomplete.
